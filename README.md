@@ -4,6 +4,10 @@
 
 > ⚠️ Dette repoet inneholder kun dokumentasjon av prosjektet. Kildekoden er utviklet for og eies av Triona AS, og er derfor ikke offentlig tilgjengelig.
 
+## Mitt bidrag
+
+Jeg hadde hovedansvar for frontend. Jeg bygde kartvisningen i React og OpenLayers og koblet den til teamets .NET-API. I kartet kan brukeren se både hvor en skade ligger og hvor alvorlig den er.
+
 ## Hva prosjektet løser
 
 Norske veimyndigheter samler inn enorme mengder LiDAR-data og informasjon fra NVDB (Nasjonal vegdatabank), men det er tidkrevende å omsette dette til konkrete beslutninger om hvor vedlikehold trengs mest. Huldra bygger bro mellom rådata og beslutning: systemet prosesserer LiDAR- og NVDB-data fra målebiler, beregner en tilstandsgrad fra 1–5 for veidekket, og presenterer resultatet i et interaktivt, fargekodet kart.
@@ -30,4 +34,4 @@ Prosjektet ga et konkret, visuelt beslutningsgrunnlag for vedlikeholdsplanleggin
 
 ---
 
-Se full portefølje: [ahmed-has96.github.io](https://ahmed-has96.github.io)
+[Se porteføljen](https://ahmed-has96.github.io/) · [Les offentlig C#-kode fra F1 Special Event](https://github.com/Ahmed-has96/F1SpecialEvent/blob/main/Webutvikling/F1SpecialEventAPI/Controllers/DriversController.cs)
